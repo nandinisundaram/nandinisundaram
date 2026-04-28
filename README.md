@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandinisundaram
-- 👀 I’m interested in learning about Content Management System using GitHub
-- 🌱 I’m currently learning to create Technical Documents
-- 📫 Reach me via email at nandinisundaram@outlook.com
+- 👀 Just exploring the Git world while learning about AI and its relatives.
+- 🌱 I’m currently learning to create an AI based application 
+- 📫 nandinisundaram@outlook.com
 
 <!---
 nandinisundaram/nandinisundaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
